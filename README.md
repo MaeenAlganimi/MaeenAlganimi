@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi! I'm a Software Engineering student based in Turkey 🇹🇷  <br>I'm passionate about learning new technologies and building useful software.  <br>I enjoy working on side projects, especially in web development and automation.  <br>Currently exploring open source and always looking for ways to grow as a developer.<br><br>- 🎓 Studying Software Engineering  <br>- 💻 Interested in Web Dev, APIs, and Open Source  <br>- 🌱 Currently learning: learing Fullstack development AWS etc.  <br>- 🧠 Languages: English, Turkish, Arabic (spoken)  <br>- 📫 Reach me at: [your maeenalganimi@gmail.com<br><br>Thanks for stopping by!
+👋 About Me<br><br>Hi! I'm a Software Engineering student based in Turkey 🇹🇷  <br>I'm passionate about learning new technologies and building useful software.  <br>I enjoy working on side projects, especially in web development and automation.  <br>Currently exploring open source and always looking for ways to grow as a developer.<br><br>- 🎓 Studying Software Engineering  <br>- 💻 Interested in Web Dev, APIs, and Open Source  <br>- 🌱 Currently learning: learing Fullstack development AWS etc.  <br>- 🧠 Languages: English, Turkish, Arabic (spoken)  <br>- 📫 Reach me at: maeenalganimi@gmail.com<br><br>Thanks for stopping by!
 
 
 ## 🌐 Socials:
