@@ -57,14 +57,12 @@ and I automate business workflows for real clients. **Based in Tripoli, Libya.**
 
 ## Featured projects
 
-| Project | What it does | Stack | Demo / Repo | Status |
-|---|---|---|---|---|
-| **Dental Clinic Booking** | Online booking with automatic appointment reminders | Next.js · Supabase · n8n | *coming soon* | In progress |
-| **LYD Exchange-Rate Tracker** | Libyan dinar rates with an Arabic/English UI | Next.js · Node.js · PostgreSQL | *coming soon* | In progress |
-| **AI Study Planner** | Syllabus PDF in, weekly study plan + chat tutor out | React · TypeScript · Express · Gemini | *coming soon* | In progress |
-| **Job Application Tracker** | Bilingual Kanban board with CV keyword matching | Next.js · PostgreSQL · Prisma | *coming soon* | In progress |
-
-<!-- Replace "coming soon" with [Live demo](url) · [Repo](url) as each project ships. -->
+| Project | What it does | Stack | Demo / Repo |
+|---|---|---|---|
+| **Halcyon** | A patient books a dentist and an open chair; the clinic reminds them a day before, and the same link moves or cancels the visit | Next.js · Supabase · n8n | [Repo](https://github.com/MaeenAlganimi/dental-booking) · Demo soon |
+| **Sarf** | Bilingual Libyan dinar desk: LYD against six currencies, charting an official series against a parallel series | Next.js · Prisma · PostgreSQL | [Repo](https://github.com/MaeenAlganimi/lyd-rate-tracker) · Demo soon |
+| **Atrium** | Turns a syllabus PDF into an editable weekly study plan and a tutor grounded in that syllabus | React · TypeScript · Express · Gemini | [Repo](https://github.com/MaeenAlganimi/ai-study-planner) · Demo soon |
+| **Masār** | Bilingual Kanban board with CV keyword matching | Next.js · Prisma · PostgreSQL · Auth.js | [Repo](https://github.com/MaeenAlganimi/job-tracker) · Demo soon |
 
 <div align="center">
 
