@@ -7,7 +7,7 @@
 <a href="https://github.com/MaeenAlganimi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Next.js+%2B+Node.js+%2B+PostgreSQL+apps;Gemini+API+integrations;n8n+%26+Zapier+workflow+automation" alt="Full-Stack Software Engineer · Next.js + Node.js + PostgreSQL · Gemini API · n8n & Zapier" /></a>
 
 I build full-stack web apps end to end, from React/Next.js UIs to Express APIs on PostgreSQL with JWT auth,<br/>
-and I automate business workflows for real clients. **Based in Tripoli, Libya.**
+and I automate business workflows for real clients.
 
 [![Email me](https://img.shields.io/badge/Email-maeenalganimi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maeenalganimi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maeen-alganimi-4a02872b4)
