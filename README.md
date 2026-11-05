@@ -63,6 +63,7 @@ and I automate business workflows for real clients.
 | **Sarf** | Bilingual Libyan dinar desk: LYD against six currencies, charting an official series against a parallel series | Next.js · Prisma · PostgreSQL | [Repo](https://github.com/MaeenAlganimi/lyd-rate-tracker) · Demo soon |
 | **Atrium** | Turns a syllabus PDF into an editable weekly study plan and a tutor grounded in that syllabus | React · TypeScript · Express · Gemini | [Repo](https://github.com/MaeenAlganimi/ai-study-planner) · Demo soon |
 | **Masār** | Bilingual Kanban board with CV keyword matching | Next.js · Prisma · PostgreSQL · Auth.js | [Repo](https://github.com/MaeenAlganimi/job-tracker) · Demo soon |
+| **Scam Lens** | Scores a pasted or screenshotted SMS, WhatsApp message, or email for scam risk on-device (EN/AR/ES); no upload, no API key | Next.js · TypeScript · on-device Naive Bayes · Tesseract.js | [Repo](https://github.com/MaeenAlganimi/scam-lens) |
 
 <div align="center">
 
