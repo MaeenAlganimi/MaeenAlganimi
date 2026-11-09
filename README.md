@@ -64,6 +64,9 @@ and I automate business workflows for real clients.
 | **Atrium** | Turns a syllabus PDF into an editable weekly study plan and a tutor grounded in that syllabus | React · TypeScript · Express · Gemini | [Repo](https://github.com/MaeenAlganimi/ai-study-planner) · Demo soon |
 | **Masār** | Bilingual Kanban board with CV keyword matching | Next.js · Prisma · PostgreSQL · Auth.js | [Repo](https://github.com/MaeenAlganimi/job-tracker) · Demo soon |
 | **Scam Lens** | Scores a pasted or screenshotted SMS, WhatsApp message, or email for scam risk on-device (EN/AR/ES); no upload, no API key | Next.js · TypeScript · on-device Naive Bayes · Tesseract.js | [Repo](https://github.com/MaeenAlganimi/scam-lens) |
+| **ShareSafe** | Free on-device screenshot redactor: suggests redactions for emails, phone numbers, card numbers and faces; nothing is uploaded | Vite · React · TypeScript · Electron | [Live app](https://share-safe-kohl.vercel.app/app) · [Repo](https://github.com/MaeenAlganimi/share-safe) |
+| **Sijil** | Tracks expiry dates of licenses, contracts and permits with reminders before renewal (public product site and desktop wrapper; app source is private) | Vite · React · TypeScript (public site) | [Site](https://sijil-site.vercel.app) · [Repo](https://github.com/MaeenAlganimi/sijil) |
+| **Paver** | Construction operations workspace for projects, materials, purchasing and budgets (public product site and desktop wrapper; app source is private) | Vite · React · TypeScript (public site) | [Site](https://paver-site.vercel.app) · [Repo](https://github.com/MaeenAlganimi/paver) |
 
 <div align="center">
 
