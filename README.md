@@ -64,6 +64,7 @@ and I automate business workflows for real clients.
 | **Atrium** | Turns a syllabus PDF into an editable weekly study plan and a tutor grounded in that syllabus | React · TypeScript · Express · Gemini | [Repo](https://github.com/MaeenAlganimi/ai-study-planner) · Demo soon |
 | **Masār** | Bilingual Kanban board with CV keyword matching | Next.js · Prisma · PostgreSQL · Auth.js | [Repo](https://github.com/MaeenAlganimi/job-tracker) · Demo soon |
 | **Scam Lens** | Scores a pasted or screenshotted SMS, WhatsApp message, or email for scam risk on-device (EN/AR/ES); no upload, no API key | Next.js · TypeScript · on-device Naive Bayes · Tesseract.js | [Repo](https://github.com/MaeenAlganimi/scam-lens) |
+| **ShareSafe** | Redacts emails, phone numbers, card numbers and faces from a screenshot before you share it, all on-device; web app plus Windows/Linux desktop app | React · TypeScript · Tesseract.js · MediaPipe · Electron | [Live](https://share-safe-kohl.vercel.app) · [Repo](https://github.com/MaeenAlganimi/share-safe) |
 
 <div align="center">
 
